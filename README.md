@@ -1,7 +1,7 @@
 # TP 02 de ED 02 - Ordenação Externa
 
-Para compilar o preOrdenador.c
+Para compilar o preOrdenador.c\n
 gcc preOrdenador.c -o proOrdenador.exe -Wall
 
-Para executar o preOrdenador.exe
+Para executar o preOrdenador.exe\n
 ./preOrdenador.exe
